@@ -3,7 +3,7 @@
 
 ; 
 ; Multi-Language Quine
-; Author: Frederik Klama
+; Author: Nina Alexandra Klama
 ; Languages: C++11, Python 2.7, Scheme (Racket)
 ; 
 
@@ -86,7 +86,7 @@
 (define strPreCPP (vector
   "/*"
   " * Multi-Language Quine"
-  " * Author: Frederik Klama"
+  " * Author: Nina Alexandra Klama"
   " * Languages: C++11, Python 2.7, Scheme (Racket)"
   " *"
   " * Compile with: g++ -std=gnu++0x"
@@ -420,7 +420,7 @@
   "#!/usr/bin/python"
   "#"
   "# Multi-Language Quine"
-  "# Author: Frederik Klama"
+  "# Author: Nina Alexandra Klama"
   "# Languages: C++11, Python 2.7, Scheme (Racket)"
   "#"
   ""
@@ -690,7 +690,7 @@
   ""
   "; "
   "; Multi-Language Quine"
-  "; Author: Frederik Klama"
+  "; Author: Nina Alexandra Klama"
   "; Languages: C++11, Python 2.7, Scheme (Racket)"
   "; "
   ""
