@@ -4,7 +4,7 @@
 #  Author: Nina Alexandra Klama
 #
 
-data = ['!/usr/bin/python', ' ', ' Python Quine', ' Author: Frederik Klama', 
+data = ['!/usr/bin/python', ' ', ' Python Quine', ' Author: Nina Alexandra Klama', 
   ' = ', 'data', 'globals().items():', 'line', 'variables', 'lineData', 
   'for ', ' in ', ':', '"', 'n', 'ld', 'if ', ' < ', '0', 'x', '-', ' - ', 
   'varName', '[', ']', 'repr(', 'return ', '.', '#', '(', ')', 'def ', 
