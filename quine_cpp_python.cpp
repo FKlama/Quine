@@ -220,7 +220,7 @@ class Quine
 vector<string> strPreCPP = {
   "/*",
   " * Multi-Language Quine",
-  " * Author: Frederik Klama",
+  " * Author: Nina Alexandra Klama",
   " * Languages: C++11, Python",
   " *",
   " * Compile with: g++ -std=gnu++0x",
@@ -520,7 +520,7 @@ vector<string> strPrePYTHON = {
   "#!/usr/bin/python",
   "#",
   "# Multi-Language Quine",
-  "# Author: Frederik Klama",
+  "# Author: Nina Alexandra Klama",
   "# Languages: C++11, Python",
   "#",
   "",
