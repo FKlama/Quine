@@ -1,6 +1,6 @@
 /*
  * Multi-Language Quine
- * Author: Frederik Klama
+ * Author: Nina Alexandra Klama
  * Languages: C++11, Python
  *
  * Compile with: g++ -std=gnu++0x
