@@ -1,7 +1,7 @@
 #!/usr/bin/python
 #
 #  Python Quine
-#  Author: Frederik Klama
+#  Author: Nina Alexandra Klama
 #
 
 data = ['!/usr/bin/python', ' ', ' Python Quine', ' Author: Frederik Klama', 
